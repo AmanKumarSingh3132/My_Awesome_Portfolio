@@ -1,6 +1,7 @@
 # My Portfolio
 
 ##Link to my portfolio - https://my-awesome-portfolio-3132.web.app/
+```
 
 If you want to run it on Visual Studio Code, first download it and open the file after extracting it in VS Code.
 
@@ -13,3 +14,5 @@ Then to run the file on localhost write "npm run dev" in terminal and press Ente
 A link will appear in terminal hover your mouse on it and click the link while holding ctrl on keyboard.
 
 Now you can see the website on your browser and change it while the link is live as it will refresh automatically.
+
+```
